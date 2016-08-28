@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ADVENTURE>
+	<TITLE>Forest Figures</TITLE>
+	<AUTHOR>Zachery Visger</AUTHOR>
+	
+	<STORYBLOCK id="1">
+		<DIALOGUE>
+			Late one night you awaken underneath a large willow. Your head hurts and you can't remember just how you got there. 
+		</DIALOGUE>
+
+		<CHOICE lblockid="1"> Continue </CHOICE>
+	</STORYBLOCK>
+
+
+</ADVENTURE>

@@ -3,7 +3,7 @@
 
 var adventureTitle="NONE";
 var adventureAuthor="NONE";
-var adventurePath="Adventures/AdventureTEST.xml";
+var adventurePath="/Adventures/AdventureTEST.xml";
 
 function loadStory( path ) {
 	var xhttp = new XMLHttpRequest();

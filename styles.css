@@ -7,10 +7,10 @@ p {
 	margin: auto;
 }
 
-A:link { text-decoration: none; color: #668D3C; }
-A:visited { text-decoration: none; color: #668D3C;}
+A:link { text-decoration: none; color: #BDD09F; }
+A:visited { text-decoration: none; color: #BDD09F;}
 A:active { text-decoration: none; }
-A:hover { text-decoration: none; color: #BDD09F;}
+A:hover { text-decoration: none; color: #668D3C;}
 
 #main {
 	width:100%;

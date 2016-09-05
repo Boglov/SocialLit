@@ -17,6 +17,9 @@ A:hover { text-decoration: none; color: #2ECC71;}
 	text-align:center;
 }
 
+#pagetitle {
+	color:#B99C6B;
+}
 #navmenu {
 	height:90vh;
 	width: 200px;

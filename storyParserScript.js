@@ -73,7 +73,9 @@ function parseStoryBlock( xml, id ) {
 
 }
 
-
+function hideTestObjects() {
+	$(".test").hide();
+}
 
 //Cookie Handling
 function createCookie(name,value,days) {
